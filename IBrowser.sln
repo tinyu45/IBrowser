@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBrowser", "Assembly-CSharp.csproj", "{BE1FB346-5590-C319-B893-2D81747EB34C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBrowser", "Assembly-CSharp-firstpass.csproj", "{ACC36EE5-09FB-120E-A362-AFA7E38BE252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1FB346-5590-C319-B893-2D81747EB34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1FB346-5590-C319-B893-2D81747EB34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1FB346-5590-C319-B893-2D81747EB34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1FB346-5590-C319-B893-2D81747EB34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC36EE5-09FB-120E-A362-AFA7E38BE252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC36EE5-09FB-120E-A362-AFA7E38BE252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC36EE5-09FB-120E-A362-AFA7E38BE252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC36EE5-09FB-120E-A362-AFA7E38BE252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
